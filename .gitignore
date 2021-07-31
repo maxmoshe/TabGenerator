@@ -1,4 +1,4 @@
-#tabs
 tabs/
 checkpoints/
-/data
+.ipynb_checkpoints/
+data
